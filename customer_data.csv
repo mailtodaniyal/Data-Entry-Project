@@ -1,0 +1,6 @@
+Name,Email,Phone,Address
+John Doe,JOHN.DOE@EXAMPLE.COM,(123) 456-7890,123 Main St
+Jane Smith,JANE.SMITH@EXAMPLE.COM,987-654-3210,456 Elm St
+Michael Brown,michael.brown@sample.com,,789 Oak St
+John Doe,john.doe@example.com,(123) 456-7890,123 Main St
+,invalid_email,5555,
